@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Kodi (he/him). Welcome to my GitHub! 
+### Hi there 👋 My name is Kodi (he/him) 
+Welcome to my GitHub! 
 
 I'm a(n),
 - :computer: Full Stack Web Developer
