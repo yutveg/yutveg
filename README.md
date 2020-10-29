@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## My name is Kodi (he/him). And welcome to my GitHub! 
+## My name is Kodi (he/him). Welcome to my GitHub! 
 
 I'm a(n),
-:computer: Full Stack Web Developer
-:musical_note: Unknown hiphop force 
-:muscle: Athlete
-:video_game: L4D2 Tryhard
+- :computer: Full Stack Web Developer
+- :musical_note: Unknown hiphop force 
+- :muscle: Athlete
+- :video_game: L4D2 Tryhard
 
 and I'm looking to make my debut into the Software Development industry.
 
