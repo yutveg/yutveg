@@ -7,7 +7,7 @@ I'm a(n),
 - :muscle: Athlete
 - :video_game: L4D2 Tryhard
 
-and I'm looking to make my debut into the Software Development industry.
+and I'm looking to make my debut in the Software Development industry.
 
 The majority of my experience up to this point has been creating web applications all over the stack. Check out some of the technology I know how to use!
 
