@@ -6,9 +6,7 @@ I'm a(n),
 - :muscle: Athlete
 - :video_game: L4D2 Tryhard
 
-and I'm looking to make my debut in the Software Development industry.
-
-The majority of my experience up to this point has been creating web applications all over the stack. Check out some of the technology I know how to use!
+Here are the technologies I know:
 
 ## Front-end:
 - React.js
@@ -29,8 +27,6 @@ The majority of my experience up to this point has been creating web application
 - Python
 
 And I'm open to and capable of learning many more. 
-
-I'm currently working on projects that combine TypeScript with React and Node, with a specific focus on improving my web capabilities regarding React practices, authentication, and interfacing with CSS/UI libraries to speed up production. 
 
 If you're interested in working with me please feel free to leave me a message [on my website](https://theko.dev/contact). I look forward to chatting with you! 
 <!--
