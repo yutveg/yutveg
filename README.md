@@ -11,19 +11,20 @@ Here are the technologies I know:
 ## Front-end:
 - React.js
 - Redux
+- Recoil
 - HTML/CSS
 - MaterialUI/TailwindCSS/MaterializeCSS/Styled-Components
 
 ## Back-end:
 - Node.js
+- FastAPI
 - Express Web Framework
 - JWT
-- PostgreSQL
-- SQLite3
+- SQL (PostgreSQL, SQLite3)
+- NoSQL (MongoDB, S3)
 
 ## Languages:
 - JavaScript
-- TypeScript
 - Python
 
 And I'm open to and capable of learning many more. 
