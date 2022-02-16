@@ -1,11 +1,5 @@
 Welcome! I'm Kodi. 
 
-I'm a(n),
-- :computer: Full Stack Web Developer
-- :musical_note: Unknown hiphop force 
-- :muscle: Athlete
-- :video_game: L4D2 Tryhard
-
 Here are the technologies I know:
 
 ## Front-end:
@@ -26,10 +20,7 @@ Here are the technologies I know:
 ## Languages:
 - JavaScript
 - Python
-
-And I'm open to and capable of learning many more. 
-
-If you're interested in working with me please feel free to leave me a message [on my website](https://theko.dev/contact). I look forward to chatting with you! 
+- Ruby
 <!--
 **yutveg/yutveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
